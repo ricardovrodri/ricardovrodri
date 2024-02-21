@@ -6,11 +6,11 @@
 
 <br>
 
-##**About Me**
+## **About Me**
 
 <br>
 
-##**Skills**
+## **Skills**
 
 <br>
 
